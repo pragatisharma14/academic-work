@@ -1,6 +1,4 @@
-
-
-Welcome to the beginning of your journey to becoming an ML Operations (MLOps) Engineer! 🎉 Follow these steps to get your development environment teed up! After you've finished this set-up, feel free to go through the associated `Whodunit?`! 🕵️‍♀️
+🎉 Follow these steps to get your development environment teed up! After you've finished this set-up, feel free to go through the associated `Whodunit?`! 🕵️‍♀️
 
 
 ## :books: Quick Review
